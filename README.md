@@ -1,4 +1,5 @@
-## 🔧 Selenium Test Automation for Katalon Demo CURA Website
+## 🔧 Selenium Test Automation for Katalon CURA Website
+
 ### 🌐 Project Overview
 
 This project contains automated test scripts written in Python using Selenium WebDriver, the Page Object Model (POM) design pattern and Pytest for the demo healthcare appointment website.
